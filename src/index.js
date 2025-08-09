@@ -1,7 +1,9 @@
-import './sass/main.scss';
-import { calc, Piwo } from './test.js';
+import getDataApi from './utils/getDataApi.js';
+import { CATALOG_URL } from './constants/url.js';
 
-console.log('piwos');
-console.log(calc(5, 10));
-const piwo = new Piwo();
-piwo.hello();
+import './sass/main.scss';
+
+async () => {
+    const data = await getDataApi('/data/catalog.json');
+    console.log(data);
+}

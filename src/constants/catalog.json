@@ -1,0 +1,157 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category": "sofas",
+            "manufacturer": "Mio Tesoro",
+            "name": "Диван Mio Tesoro Такка SB2 (Malmo 96 Dark Grey)",
+            "price": 370.75,
+            "images": [
+                "https://imgproxy.onliner.by/5Lzfx6C21UKd1tftAub4HtIR1222b9oBQAkDZvGp3QE/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MDJjNzUxMDJiNzg3/Y2UyZjUyZDRmOTky/YTljODNlZTguanBn",
+                "https://imgproxy.onliner.by/4pw_I0SNjpxqf_NWZZS9DsnEp3mwNQrEMjdKXvwmbuc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NDc4NjdlYzIwYjky/OWVjMjY3OWI3NDhi/ODk2MTk2YzUuanBn",
+                "https://imgproxy.onliner.by/g0rOo7kZU-vIjM_GqXqqAN0ToGqTMiI2tFJ_OUHvAWY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NzMwNWVkYWVmYzk3/ZDRiYTg2N2EwMmZk/ZmYwOTBkZjguanBn",
+                "https://imgproxy.onliner.by/8l8PHJq1aOmLwWZNeXCeyJPt1wbkMzucB98kTFeSaZY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/OTVmMTMxNjIzZDM2/ZjQ2YjQ0MjI2ZDI3/ZGZiYTEwYTYuanBn",
+                "https://imgproxy.onliner.by/q9rAkG0kZIg3Zvmw7Aw8r8i0XLfisPw3KgZisZbrs7M/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MmNkYjg4MTMyZmU3/NDViNDk1ODNlNzg4/MTlmNWIwNTQuanBn"
+            ],
+            "main": {
+                "type": "прямой",
+                "transformationMechanism": true,
+                "typeTransformationMechanism": "раскладушка",
+                "upholstery": "ткань",
+                "color": "темно-серый"
+            },
+            "sizes": {
+                "length": "119 см",
+                "width": "74 см",
+                "height": "68 см"
+            }
+        },
+        {
+            "id": 2,
+            "category": "sofas",
+            "manufacturer": "Mio Tesoro",
+            "name": "Диван Mio Tesoro Такка SB2 (Malmo 90 Grey)",
+            "price": 401.90,
+            "images": [
+                "https://imgproxy.onliner.by/KrrKuvlVWjuCkgnPVhefq8j6FDv2TrQSv5Q_yuP5cSo/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8y/YWU5NDI1MDhlMmJj/NGRmYThlYjBmMmU0/ODAwZGY3Ni5qcGc",
+                "https://imgproxy.onliner.by/BJCR3l-9lm3SGQyRS1VsaMpNnc5tHVQijJAndmizkY4/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9l/NWZlYjI5ODExOGU5/YmQ1M2NhMDk2Mzk4/YWRmNjAxZC5wbmc",
+                "https://imgproxy.onliner.by/H-qv0qLyGvKpJtgJoF1EelMRp--mf7-HXi-PE1EQMyE/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9k/NTY4NmZkZWM1MjYx/MzRlYzUwNTc4NTYx/YjQyNmU4Ny5wbmc",
+                "https://imgproxy.onliner.by/wFrORkxdv2AmcxUMr92Biz_QXVrjK9BOgqYRFo3_0Mc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9j/ZDgzODM3ODAwMDg2/NzVmOTE0NmJmNDcw/NDQ0MjIyZS5wbmc"
+            ],
+            "main": {
+                "type": "прямой",
+                "transformationMechanism": true,
+                "typeTransformationMechanism": "раскладушка",
+                "upholstery": "ткань",
+                "color": "серый"
+            },
+            "sizes": {
+                "length": "119 см",
+                "width": "74 см",
+                "height": "68 см"
+            }
+        },
+        {
+            "id": 3,
+            "category": "sofas",
+            "manufacturer": "Salotti",
+            "name": "Диван Salotti Европа-2 (изумрудный)",
+            "price": 570,
+            "images": [
+                "https://imgproxy.onliner.by/nu0t-ViU2oGPiHtwCbO2h4jHWukUja0E66bDW0AL9sc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/NjYxYzFiMTllOGFl/YzBmNzc1MDZlMTMx/MmM0ODNjMS5qcGc",
+                "https://imgproxy.onliner.by/DkBJedMMUFgJZosA7CZ0jNanovo5YCm4KGoq4LgtsJI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9m/MDIzN2M0ODUwNTRl/YjhlYmEwZGEzYTc4/MTM2YWE2NC5qcGc",
+                "https://imgproxy.onliner.by/w78VhBw0lv4FJvHy5Gy2BQe2w58j__SRax4gqRLcgB8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/YWFkMTVhMDk0ZDIx/ZjQ5MTA4ZTgxMGRh/NDQ4Mzg1ZC5qcGc",
+                "https://imgproxy.onliner.by/No_FwITKw3L7OcOeuJPuzBoYw-awh6uWvmqkfg-FHAs/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9m/YTA5YjY4MzAzMmVh/MzcwMGZhYTNjNTFk/NjgyMGUyNS5qcGc",
+                "https://imgproxy.onliner.by/fOL7Mgx_pB9XFC_yhdIGzrLcfmoD_01o06FptairV7I/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9m/ZWQ4ZjE2NTc1Mzk3/NDQ1NzZmOWZiODc5/N2NjZWQ0OC5qcGc",
+                "https://imgproxy.onliner.by/7Dg_tSl8M2WARVupKQzD4zWRuRXsvDIgYb2gt7_9ACY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8z/N2UyZTE1ZDZlNTg4/OGEwMWFlNjRiZWJh/ZmM0YWFhNy5qcGc"
+            ],
+            "main": {
+                "type": "прямой",
+                "transformationMechanism": true,
+                "typeTransformationMechanism": "шарниры",
+                "upholstery": "ткань",
+                "color": "изумрудный"
+            },
+            "sizes": {
+                "length": "120 см",
+                "width": "73 см",
+                "height": "90 см"
+            }
+        },
+        {
+            "id": 4,
+            "category": "sofas",
+            "manufacturer": "DiArt",
+            "name": "Угловой диван DiArt Соната-2 угловой (dream mint)",
+            "price": 2493.40,
+            "images": [
+                "https://imgproxy.onliner.by/Y21kEoXrEosdB67hGvBkMo2XfXtIt-zoR42loP-YCn0/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZWI3MzhkYmQwOTA1/ZmMwMDhlMTQyODI2/MWRmYjNlYTMuanBl/Zw",
+                "https://imgproxy.onliner.by/uhw23njwm-P1BAqeF3ZNSZWbjwN-Kx3t0zRxv-k30vk/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/YWJkODkyMGZjMjIz/NzU5ZGE5OGFjNjU5/NjI1YzYwNDIuanBl/Zw",
+                "https://imgproxy.onliner.by/N7UgSO4BDYhdgY5_WgppaTPE2imnwQ07CAm2D8DIzAk/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZWU3OGI2YjljNDZl/ZWY0YWFiYjUyOWJj/NGE5ODZiNzYuanBl/Zw",
+                "https://imgproxy.onliner.by/cKqNKiQ_J4lhO6-qw7-tiCdp_9fj39MTD-VgDZ7hWWw/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MzViYzYwZjFjMTlm/ZWJiOWI2YjViNDA0/ZTUyZWE1MmIuanBl/Zw"
+            ],
+            "main": {
+                "type": "угловой",
+                "transformationMechanism": false,
+                "typeTransformationMechanism": "книжка",
+                "upholstery": "ткань",
+                "color": "синий"
+            },
+            "sizes": {
+                "length": "300 см",
+                "width": "158 см",
+                "height": "100 см"
+            }
+        },
+        {
+            "id": 5,
+            "category": "sofas",
+            "manufacturer": "Mio Tesoro",
+            "name": "Угловой диван Mio Tesoro Velke SB3CHL (Skiftebo dk Blue)",
+            "price": 820.80,
+            "images": [
+                "https://imgproxy.onliner.by/kLSp3SZmm5vOB8jz3TMVofbaMuHBJdTHHlOoK5taYkY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8z/ZTU2NjE0Yjc2NThi/MGYxY2ZlMDU4ODMw/MTI3NDBlNS5qcGc",
+                "https://imgproxy.onliner.by/xxPYLxA3ytDZ1Pdku0kemCvRGErV7j6HevWncVi_BFs/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS82/ZjBhYWRiYzMzNDFh/NGFmYjA5YzczNDc3/ZGJkZTMwMS5qcGc",
+                "https://imgproxy.onliner.by/ZMnJW3V6dtz4HJuXKaTxGIkM_Ya5DD3DU9k6a9o5gG0/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8w/ZWY3YjQ1ZWYxODhi/NWUzNmI3YTBjMTlk/ZmY2ZDc0OC5qcGc",
+                "https://imgproxy.onliner.by/fOLYiVesSqLj1qEJn6AEDGS_JUD6jzwD8A0xxn2q1Dw/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8y/Njk2OWQ5NjU2MDg1/MjBhNDA4MWM3OGI3/OTBjNmNhZC5qcGc"
+            ],
+            "main": {
+                "type": "угловой",
+                "transformationMechanism": true,
+                "typeTransformationMechanism": "еврокнижка",
+                "upholstery": "ткань",
+                "color": "синий"
+            },
+            "sizes": {
+                "length": "212 см",
+                "width": "137 см",
+                "height": "82 см"
+            }
+        },
+        {
+            "id": 6,
+            "category": "beds",
+            "manufacturer": "Стендмебель Санса",
+            "name": "Кровать Стендмебель Санса КР-03 180x200 (дуб сонома/белый)",
+            "price": 510.60,
+            "images": [
+                "https://imgproxy.onliner.by/ypeZwSzihJ-actjTzLMulzlj4XCGVSEjrgcapa5rGpM/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS84/MTM3Nzk1MTYxNDc1/MDBlMTcwYWY5MDg4/YWM1OGM3Ny5qcGc",
+                "https://imgproxy.onliner.by/4q84F200sonAevN7q4-QsyzQt8DX1iwaJSS3cx3luJc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS81/ODY2MjhjMzJmNGRj/ZWIzMGFmZDEzYTU1/YzVjODhhMy5qcGc",
+                "https://imgproxy.onliner.by/o5vnZfwoonS3XxiyDHJijqm9Q3V92ABLx65ap7bcoIA/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9h/NmE1ZmZmOGE1ZDM2/NGJhMTYzM2Y2NzNi/ZWYyZmM0ZS5qcGc",
+                "https://imgproxy.onliner.by/M2DgZr-G6ZcVkYRCgl9XrgWbylE1fNOpSb-XiiF6xCs/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS84/OTRhMjRmZjdkNjA2/NjMwMDNlZDFhMzI2/M2VjZWUzNS5qcGc"
+            ],
+            "main": {
+                "construction": "классическая",
+                "sleeppingPlaces": "двуспальная",
+                "MattressBase": "ортопедическое",
+                "childish": false,
+                "color": "бежевый, белый"
+            },
+            "sizes": {
+                "length": "231.5 см",
+                "width": "184 см",
+                "height": "94 см"
+            }
+        }
+    ]
+}
