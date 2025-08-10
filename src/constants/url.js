@@ -1,1 +1,0 @@
-export const CATALOG_URL = '../constants/catalog.json';

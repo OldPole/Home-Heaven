@@ -1,4 +1,4 @@
-import path from 'path';
+import path, { resolve } from 'path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import { fileURLToPath } from 'url';
 
@@ -36,7 +36,13 @@ export default {
         {
             test: /\.(png|svg|jpg|jpeg|gif)$/i,
             type: 'asset/resource'
-        }
+        },
+        {
+        test: /\.m?js$/,
+        resolve: {
+          fullySpecified: false
+        },
+        },
     ]
   },
   plugins: [
@@ -47,5 +53,9 @@ export default {
         hash: true,
         cache: false
     })
-  ]
+  ],
+  resolve: {
+    extensions: ['.js', '.scss'],
+    fullySpecified: false
+  }
 };

@@ -144,13 +144,84 @@
                 "construction": "классическая",
                 "sleeppingPlaces": "двуспальная",
                 "MattressBase": "ортопедическое",
-                "childish": false,
                 "color": "бежевый, белый"
             },
             "sizes": {
                 "length": "231.5 см",
                 "width": "184 см",
                 "height": "94 см"
+            }
+        },
+        {
+            "id": 7,
+            "category": "beds",
+            "manufacturer": "Трия Тиффани",
+            "name": "Кровать Трия Тиффани Тип 1 c ПМ и заглушиной 160x200 (микровелюр Wellmart Dark Beige)",
+            "price": 1100,
+            "images": [
+                "https://imgproxy.onliner.by/YTJjJIbxz7N47oxbtLWzpgVyW9lYW3-f99AN02CvTRk/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NzM2MzQyZTEyMjlh/YTM0OGI4MTdkMjg4/MjkwYmU4ZWUuanBn",
+                "https://imgproxy.onliner.by/0OKwcGmCOVrdeQ7QVzUljqpShgS5VV91adI_qn0mv80/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MmNmN2QyZmFmNDRh/MjdiODdkMzk0NWI5/MGE4ZDFkN2IuanBn",
+                "https://imgproxy.onliner.by/B9RNu1nfrTJNactqMqOXnMCaoZeQU7XLIThpFSN7f8U/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/YWM4NjliNjIxNjVj/NWI4NjI2ZmQ0M2Zm/Y2NhZDM2ZmQuanBn"
+            ],
+            "main": {
+                "construction": "классическая",
+                "sleeppingPlaces": "двуспальная",
+                "MattressBase": "ортопедическое",
+                "color": "бежевый"
+            },
+            "sizes": {
+                "length": "215.5 см",
+                "width": "165 см",
+                "height": "99 см"
+            }
+        },
+        {
+            "id": 8,
+            "category": "beds",
+            "manufacturer": "Mio Tesoro",
+            "name": "Кровать Mio Tesoro Абрау с ящиками 90x200 (белый текстурный)",
+            "price": 225.50,
+            "images": [
+                "https://imgproxy.onliner.by/pn1441VKUorQDEgMeS2PH492xLQAb96LQdWls6x1zC4/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MmU1NTI1ZjM1ZGRj/M2JkOTE0ZjdmN2Qz/MTYyODNjYzUuanBl/Zw",
+                "https://imgproxy.onliner.by/5uh1qu-Nk8LPs7-0AR70ZlJwopo-uBlW_zwjixy80gQ/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NjVkZTZlODJmNWE2/OGI5NmNkZjhlZmU1/N2VkYTQ2NjMuanBl/Zw",
+                "https://imgproxy.onliner.by/q94Jwo9zbPhOH0ZNyaJMeEUtF3PMLL_gFtUhV97_lbM/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NmRlZWVjMWE4MGEx/MDI2Y2FkYzk0ZThl/OTAxOWY4YzIuanBl/Zw",
+                "https://imgproxy.onliner.by/q9uwRYpZ4ma8ssXnD5z5lyHNsTZL210_UxpZkWMe6T8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/YWVhY2M4N2RmMjY2/YWQ1MjcwYWJiZGU1/ZmJhNTNmOWUuanBl/Zw"
+            ],
+            "main": {
+                "construction": "классическая",
+                "sleeppingPlaces": "односпальная",
+                "MattressBase": "плоское",
+                "color": "белый"
+            },
+            "sizes": {
+                "length": "203 см",
+                "width": "94 см",
+                "height": "85 см"
+            }
+        },
+        {
+            "id": 9,
+            "category": "beds",
+            "manufacturer": "Стендмебель Санса",
+            "name": "Двухъярусная кровать Стендмебель Санса 6 с ящиками Р443 (белый)",
+            "price": 225.50,
+            "images": [
+                "https://imgproxy.onliner.by/SjZX22TbwrMsvfu-2Fs9hyguoCjQNubmWPQIHtlKlD8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZDFkNTYyMWRmNmEy/ODU1ZjA5NWE5OGVj/YjA2YTc5NTQuanBn",
+                "https://imgproxy.onliner.by/SmWGc51zKGW5BCFnvb4M-yRPT-Vy7K_6cY0X8kvgkRA/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NzcyNDcyMmQ5MTgy/MDc1NDk5OWJkYWQx/OGU1YzdjZDIuanBn",
+                "https://imgproxy.onliner.by/usgHIjRnJB2IL6qDcORc9rVYIOwjrmr7LznBDu2pn6I/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZDcyNjkxMWUyNjMx/N2U5MzliZmFkZWQ2/Y2ZlMWExMzQuanBn",
+                "https://imgproxy.onliner.by/8WL_cJ1liTwHz6u69EB2PBToEqjwqaviAYjP2zzycHg/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZWUwNGJhNjZhMGM3/ZGJhNjdjMGFjNGVm/OTc5OThiYWIuanBn",
+                "https://imgproxy.onliner.by/dX92eJBgVPgAXvaGNk6zbKHsQ4e1Qyg7e3HqRH1TZqE/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NGE4Mzk4OTdmNjZl/NzgzNzAwNDU4ZDhm/NjY3ZDNmYjIuanBn"
+            ],
+            "main": {
+                "construction": "двухъярусная",
+                "sleeppingPlaces": "двуспальная",
+                "MattressBase": "ортопедическое",
+                "color": "белый"
+            },
+            "sizes": {
+                "length": "226 см",
+                "width": "84 см",
+                "height": "167 см"
             }
         }
     ]

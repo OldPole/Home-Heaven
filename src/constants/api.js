@@ -1,0 +1,1 @@
+export const CATALOG_URL = 'https://www.myjsons.com/v/3c744344';
