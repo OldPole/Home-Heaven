@@ -55,7 +55,7 @@ export default {
     })
   ],
   resolve: {
-    extensions: ['.js', '.scss'],
+    extensions: ['.js'],
     fullySpecified: false
   }
 };

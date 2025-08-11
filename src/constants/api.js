@@ -1,1 +1,1 @@
-export const CATALOG_URL = 'https://www.myjsons.com/v/3c744344';
+export const CATALOG_URL = 'https://www.myjsons.com/v/244e4350';

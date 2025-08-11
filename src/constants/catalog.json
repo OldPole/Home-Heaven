@@ -155,7 +155,7 @@
         {
             "id": 7,
             "category": "beds",
-            "manufacturer": "Трия Тиффани",
+            "manufacturer": "Трия",
             "name": "Кровать Трия Тиффани Тип 1 c ПМ и заглушиной 160x200 (микровелюр Wellmart Dark Beige)",
             "price": 1100,
             "images": [
@@ -222,6 +222,284 @@
                 "length": "226 см",
                 "width": "84 см",
                 "height": "167 см"
+            }
+        },
+        {
+            "id": 10,
+            "category": "poufs",
+            "manufacturer": "Signal",
+            "name": "Пуфик Signal Tup (серый)",
+            "price": 257,
+            "images": [
+                "https://imgproxy.onliner.by/xTu6ZbsqfnzLC1xA773F-Wm_iHolI6kNHCBSQhKIyQI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8x/Nzc0MDdjMDhhMjY1/NmM5MTlkZjIwMGM3/MzA5NmU5OS5qcGc",
+                "https://imgproxy.onliner.by/KJrqrEqUHskPjBYOjHu2KrW9UrOSDxkkUhmiqGlLmzE/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS85/OTVmNjkxMDQzMWE2/ZDNlNGNhYmY4ZDRi/NTFlMTEwYi5qcGc",
+                "https://imgproxy.onliner.by/NuIMkO3IElzx8IktUwycOhVTuXkUasg-a1d4iLbbLeQ/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS83/YzgwYTYyYmRiOTUw/NDMxYzNiOTY3OThi/MDJjNDcwNC5qcGc"
+            ],
+            "main": {
+                "seatsNumber": "1",
+                "upholstery": "ткань",
+                "style": "современный",
+                "appointment": "для дома",
+                "color": "серый"
+            },
+            "sizes": {
+                "length": "45 см",
+                "height": "40 см",
+                "weight": "5.5 кг"
+            }
+        },
+        {
+            "id": 11,
+            "category": "poufs",
+            "manufacturer": "Mio Tesoro",
+            "name": "Пуфик Mio Tesoro Юнта (экокожа/коричневый)",
+            "price": 238.80,
+            "images": [
+                "https://imgproxy.onliner.by/aaRMPnG7sgB8Cas9hZdwA81yic0Pr_pynv0VEZNNRXQ/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS85/MTJmMTAxOTY5MDBj/NmJjNTYzNDgzY2Vm/NWUzZGE4Yy5qcGc",
+                "https://imgproxy.onliner.by/Lpn1RdRHhpdLVosG_s6qUSPY4_V9MUcXPUGZ7EcRMSk/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9k/ZDQ2OGNjZDhiZTEw/OTVlNjQ2ZjhmZjBm/NjY3NTQ4ZS5qcGc",
+                "https://imgproxy.onliner.by/VsShfTgB0z1UIEP81pT6AcjGy360FO_vbEJaCxPu9pY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9m/NGU1NTRkYWE1NTdl/ZDc1ZThiNThkNjNm/NTUzYTk1Ny5qcGc"
+            ],
+            "main": {
+                "seatsNumber": "1",
+                "upholstery": "экокожа",
+                "style": "лофт",
+                "appointment": "для дома, для офиса",
+                "color": "коричневый"
+            },
+            "sizes": {
+                "length": "40 см",
+                "height": "45 см",
+                "depth": "30 см",
+                "weight": "4.2 кг"
+            }
+        },
+        {
+            "id": 12,
+            "category": "poufs",
+            "manufacturer": "Halmar",
+            "name": "Пуфик Halmar Velva (серый/золотой)",
+            "price": 330,
+            "images": [
+                "https://imgproxy.onliner.by/nugOEsYzB-Yar7xlz5TOB6lXIP-i43qmrRCKX_h9g_I/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NTc5OWUyOWI4YTU3/OWE5OGY3NGQxNzUz/ZjcxZGYyMDUuanBl/Zw",
+                "https://imgproxy.onliner.by/xEftKCgMGEPglVjj33bJpF4OdePxyK9pSUEiESKJ3H0/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/Njc5YzZlNmJhMDA0/MjdmMzBjNjAzNzM2/ODQ3ZDMwNTguanBl/Zw",
+                "https://imgproxy.onliner.by/aXi1bwsqX2QXyZ8KMp2WJAV2_7gmjq_dxSN51pWsZbo/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/N2EzOTM4NzU3NzZl/NjUzNTE5MWIxMmQw/MTg5ZWNmNmQuanBl/Zw",
+                "https://imgproxy.onliner.by/pGiZB7UCsM4SlAFp2Seem4fuX_HiANthv5FkPH2m3Xc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/OGEwNGZhMzYyYjEw/YWI3ODM2YmUyYzkz/NTkwZWQ1NGUuanBl/Zw",
+                "https://imgproxy.onliner.by/IyqpVUUX66qInQ8gdtr-Fjdd57npTyiEAEfm6Y7LUXI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/YzkyYzdhMDNlM2I1/MDBjZmE5MzA2NDFj/MzBlZTUyZjkuanBl/Zw",
+                "https://imgproxy.onliner.by/y010jL8CABnguuUi8dSVDV40S5736jM1ygaWe18STlk/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MzE5OWVmZjNlYmVm/MjgxMWIyNWU0NWZj/ODJjZjFiZDYuanBl/Zw"
+            ],
+            "main": {
+                "seatsNumber": "2",
+                "upholstery": "велюр",
+                "style": "модерн, скандинавский, винтаж",
+                "appointment": "интерьерный",
+                "color": "золотистый, серый"
+            },
+            "sizes": {
+                "length": "78 см",
+                "height": "37 см",
+                "depth": "42 см"
+            }
+        },
+        {
+            "id": 13,
+            "category": "poufs",
+            "manufacturer": "Signal",
+            "name": "Пуфик Signal Bruni Velvet (темно-бежевый)",
+            "price": 335,
+            "images": [
+                "https://imgproxy.onliner.by/NlhXXWm5Rn2CdndBnybkdGY25PZx6piSVPxOBupaRAU/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9h/OTdhNmMzNDYyNWI5/MjM2OTczMjJjOWRi/OTg0YzIwOC5qcGc",
+                "https://imgproxy.onliner.by/yVbmUXfUyt1e8fRlJmqQNBPEZDzyRtaqrnMDQpWtu4M/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9h/ZjcxOTQ4MjMyODI1/NzE1OWIzYmU1NTk5/OTQwMGYwZS5qcGc",
+                "https://imgproxy.onliner.by/M-iu2vFvRoXYgv9iDFNQCvjgViP60UcxlYqrBcwWeLQ/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9j/NTU1MjA3NjdkZTRh/ZGU4MmJhZDc3ZmFm/NzUxYzIxNy5qcGc"
+            ],
+            "main": {
+                "seatsNumber": "1",
+                "upholstery": "велюр",
+                "style": "современный",
+                "appointment": "для дома",
+                "color": "бежевый"
+            },
+            "sizes": {
+                "length": "45 см",
+                "height": "45 см",
+                "depth": "42 см",
+                "weight": "6.7 кг"
+            }
+        },
+        {
+            "id": 14,
+            "category": "poufs",
+            "manufacturer": "Halmar",
+            "name": "Пуфик Halmar Calpi (серый)",
+            "price": 742,
+            "images": [
+                "https://imgproxy.onliner.by/w8_x-spyk_CY1l7-zA1eQ4JxOwUWys85NUSe_MQ1mwE/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9m/MDY0ODNkY2FhZDgz/NWZmN2VlMjAxOTIy/YzFmYzcyZi5qcGc",
+                "https://imgproxy.onliner.by/iV9BhDo7WOip6GJiELeffg5cSWOrM7riG99e3xTPl4I/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS85/NjU4Nzc3NWU3NTg5/YTY2MzliNzU4NjBl/NzMwNWEzNC5qcGc"
+            ],
+            "main": {
+                "seatsNumber": "2",
+                "upholstery": "вельвет",
+                "style": "современный",
+                "appointment": "интерьерный, для дома",
+                "color": "серый"
+            },
+            "sizes": {
+                "length": "110 см",
+                "height": "42 см",
+                "depth": "46 см",
+                "weight": "12 кг"
+            }
+        },
+        {
+            "id": 15,
+            "category": "chairs",
+            "manufacturer": "Salotti",
+            "name": "Кресло-кровать Salotti Альфа (темно-синий)",
+            "price": 540,
+            "images": [
+                "https://imgproxy.onliner.by/VcyM4rX4vfUlmh4a9TbaZ3MXXUnzVwB5jszsnLdd-Bo/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8x/M2Q5ZDI3NzM0ZWVl/ZTYyZmZlYzhiZDg1/NjZlZTE5NS5qcGc",
+                "https://imgproxy.onliner.by/zCJPinKRxMf5NpwPwY5x7N56jhV0YV76q-Yxc8wMKwE/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS82/YmExNTdlMTg1NjA1/YWE5NmIyY2RiODE2/YjM1OWE0OS5qcGc",
+                "https://imgproxy.onliner.by/2Hotketem5uQCGCPoFTMWJ9mO-AvE4wXUm6sYP5cLyM/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9j/ZDUzMzBiOWY4NTk0/NTc5YzRjNTgwZWU2/ZDQ5NzlhNC5qcGc",
+                "https://imgproxy.onliner.by/NM8wYow9HwogwIgNeOiC30L3Z8WJJxieCrQS_VDMKXI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9h/YWRmN2M4MWY3M2I1/ZjI3YTI0M2I4ZGNj/ZjRlMDc3My5qcGc",
+                "https://imgproxy.onliner.by/QXcKzIAIedB9ObTRqY_K6YumWVln2sbCi_8ZH4ORW-U/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9k/YTcyOWZlMzg3ZTU2/M2U4NjZmODNkYWQz/M2Q1MTkwMy5qcGc"
+            ],
+            "main": {
+                "type": "кресло-кровать",
+                "seatMaterial": "ткань",
+                "carcass": "ДВП, ДСП, фанера",
+                "color": "темно-синий"
+            },
+            "sizes": {
+                "width": "92 см",
+                "height": "92 см",
+                "depth": "84 см"
+            }
+        },
+        {
+            "id": 16,
+            "category": "chairs",
+            "manufacturer": "AksHome",
+            "name": "Интерьерное кресло AksHome Relax (ткань, бежевый)",
+            "price": 268,
+            "images": [
+                "https://imgproxy.onliner.by/DuQfBhvBZd3e1bbBGGsdQiORGtjNMcCjOl7HsrKkND0/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MGI3NjAzYTllMjc1/ZGI2ZTBjZDk3MmFj/YzNlZDJiZDYuanBn",
+                "https://imgproxy.onliner.by/4kL1yJs0Z_BqzKbduzAmshLlVReIW4jDYEUhy-Wnd4Q/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZjFmODIwYTkzNDI2/NmY2NDBlNzM3MzRh/MmI3YWMwNDMuanBn",
+                "https://imgproxy.onliner.by/YLwH3BX2P3y1UA7QEVrSfjWIgfT5mHPip9en9qY9IAY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/Y2NmZjlkYmNhYzQ4/Y2NmODNkNTU3ZWJl/OGQ0YWM0MWEuanBn",
+                "https://imgproxy.onliner.by/PCZ08B1LEffhGaXlnRdRpSr_n2zWSWjHzGxQKtXH1yc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/ZTZiM2NiZDRhNjBi/ZDY3NmU0OTdkMDM0/NzExMTZjZmUuanBn",
+                "https://imgproxy.onliner.by/bhzK14NP1WjHfPPYdmlgQcGOyEvu3IqWS2I0BkY5YrQ/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/OTAyNjNkMDQxNDg5/ZDAzNTNlYzM3NDAx/NWI2MTRhMTYuanBn",
+                "https://imgproxy.onliner.by/Xfl-WwnN1j-G7YCfNzqKtNrj9lGTymhES82K5J80dX8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MGNhMTVhOTA0MWIw/NjVmM2RjN2NhNTI3/NDJjYmUxYWQuanBn",
+                "https://imgproxy.onliner.by/OzBugV7psDZzmui7mQHja50tYGwe1wOdlgkraoveMuI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/Yzk2MjQzZThhOTUz/NzE5NWNjZGI0ZGRi/MzJiZmIyYTMuanBn",
+                "https://imgproxy.onliner.by/hLBjOogXpmufQY1U87wNKgjJUlQD_nWLN9mpTnlUvzI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NzQ1MmRiYzZiNTEx/NTdjMjBkYWJiN2Zj/OGE2ZTJjNDUuanBn",
+                "https://imgproxy.onliner.by/Wl5pEa9M_t3GZHzIEVIGZWB2aXJrCCOKARi9ulZfBDY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/MzZkOGUxMWYwOGYw/MGJmMGI1NzUxNWFh/OGE3M2Y0YTUuanBn",
+                "https://imgproxy.onliner.by/Miy96Y755cAICMH4bR4-noinFHl03TdassfbyyT1eEM/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NmZjNTEwNmVjYTM3/NjE1NTQ3YmU0ZGZi/YmUyOGExNGYuanBn",
+                "https://imgproxy.onliner.by/A5Bo1252eexiPXnz3p2OBoVwvsW9PLOx264f00uqDKU/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvbGFyZ2Uv/NmFmYTdhNDYxOGE5/MmRiMDA5Nzg5MDI1/MzVkYjBmNTQuanBn"
+            ],
+            "main": {
+                "type": "интерьерное кресло",
+                "seatMaterial": "ткань",
+                "carcass": "дерево",
+                "color": "бежевый"
+            },
+            "sizes": {
+                "width": "54 см",
+                "height": "102 см",
+                "depth": "49 см"
+            }
+        },
+        {
+            "id": 17,
+            "category": "chairs",
+            "manufacturer": "Mio Tesoro",
+            "name": "Интерьерное кресло Mio Tesoro Фиджи (Velutto 12/натуральное дерево)",
+            "price": 600.70,
+            "images": [
+                "https://imgproxy.onliner.by/8tPjCkhMkCMTJ_Ux_0OqLPxKOuTXakZs6hRZS2YveIs/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9h/ZjY5MWNlOGE5OWM0/NjRmYmM3MzExMzY1/MWVmZDQ1Ni5qcGc",
+                "https://imgproxy.onliner.by/9x2jX4D-pTAIYkRE8YX9RCAx4v2EY3r_hk1OsDO0R1o/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS81/ZWVmMjgzOTNkNjU4/ODJjYWM2NDBkZTZk/ZTc5Mzg1My5qcGc",
+                "https://imgproxy.onliner.by/xwn0ZzgERxOIvxoy9H409NKr6OJlHGQgRUEXHHxepcI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/MGZjNGZiZTZiYjgx/ODExNGRhY2JkNDhk/ZTIzMzJiNC5qcGc",
+                "https://imgproxy.onliner.by/6pehAOimun10mWD-2a4X5FK-qBOS-maopeXtrcYX75U/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8z/NjQxMzhjZTg0Nzdi/OGU1YzYxOTNmNzFm/Y2M0YjA1OC5qcGc"
+            ],
+            "main": {
+                "type": "интерьерное кресло",
+                "seatMaterial": "ткань",
+                "carcass": "дерево",
+                "color": "серый"
+            },
+            "sizes": {
+                "width": "90 см",
+                "height": "102.5 см",
+                "depth": "86 см"
+            }
+        },
+        {
+            "id": 18,
+            "category": "chairs",
+            "manufacturer": "Halmar",
+            "name": "Интерьерное кресло Halmar Jukon (кремовый)",
+            "price": 980,
+            "images": [
+                "https://imgproxy.onliner.by/o0quQZKdANZf3XaFjotqd06sW8He1X6nSvZE1i2yGoI/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS81/Y2RmMDliOGJhZjFh/ODA5YTA0NmQ0MWQ4/YjA5NjgzMC5qcGc",
+                "https://imgproxy.onliner.by/UFlQPQjEKuSVAdWDxIzIBgkS-J2NKqprd7vFSttpWEY/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS81/MzMwNDg1ZTg1ODA0/ZmQ2YjZiZTQ0NGJl/MTczZTllZS5qcGc"
+            ],
+            "main": {
+                "type": "интерьерное кресло",
+                "seatMaterial": "ткань",
+                "carcass": "металл",
+                "color": "серый"
+            },
+            "sizes": {
+                "width": "74 см",
+                "height": "108 см"
+            }
+        },
+        {
+            "id": 19,
+            "category": "chairs",
+            "manufacturer": "Mio Tesoro",
+            "name": "Кресло-кровать Mio Tesoro Хилтон 068 АТС80 (Balance 130)",
+            "price": 1208.20,
+            "images": [
+                "https://imgproxy.onliner.by/xhpiXQDweLAE3zqMasBn83qGsom29MkwZkbS6Z1DqZ8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/OWVkZDdlYTJlODIy/MWExNmRjZTQ3OGY3/NDEyMTNiOC5qcGc",
+                "https://imgproxy.onliner.by/pUaMxu-xZ4fFJj77pHT21dANn_rU2dIvREP4qo81gn0/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/ODQ4MjgxOGM1MzAy/MWJmOWRlN2QxNjUw/NzExNGU1NC5qcGc",
+                "https://imgproxy.onliner.by/s4yt80QixWHneD-iCb4zJDv9zLzgDkMOxn6jYkc0kxQ/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9l/NWU1OTA2OGI2NDY0/Y2ZkMzA0ZDQ1Zjg1/MzdmMDc3NS5qcGc",
+                "https://imgproxy.onliner.by/hPyKqKYfx-_b4GPxhMFRJXapSSIFL1Q2ygq3KmVxh2M/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8x/NjljZjJjZDcxYTI0/MDIzN2MzYjQxMjA1/MmEzNGI4MS5qcGc",
+                "https://imgproxy.onliner.by/Le43hiVncOD2mXPX0iRNm8H6a_mzyQSvS0UJs5HERx8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS8x/NWZiYjg3NDIyYTQ4/YjgxZGRiODI0ZDNh/MDc1MDIyOC5qcGc",
+                "https://imgproxy.onliner.by/dPfvQiFCcpWMya1QMPN3D0u_Po3SZB3INRKLU-5pSgg/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9h/MGQ0M2VmZjhhMGYx/MGNlYzk3MjExY2Iy/YWFiMWM0ZS5qcGc"
+            ],
+            "main": {
+                "type": "кресло-кровать",
+                "seatMaterial": "ткань",
+                "carcass": "ДСП, фанера",
+                "color": "бежевый"
+            },
+            "sizes": {
+                "width": "100 см",
+                "height": "95 см",
+                "depth": "100 см"
+            }
+        },
+        {
+            "id": 20,
+            "category": "chairs",
+            "manufacturer": "AksHome",
+            "name": "Интерьерное кресло AksHome Virginia (велюр, капучино HCJ-11/черный)",
+            "price": 418.60,
+            "images": [
+                "https://imgproxy.onliner.by/t8f7hDZ05ulhgJA-_F7mGkSuBZBrsq4bGLAHzvKWAKo/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/N2NjMjY2ZDk5YzNj/MmYxNzIxYjk5OTg2/MWIzNzkyNC5qcGc",
+                "https://imgproxy.onliner.by/jpAPqoz0QQVfZ8sG4GJxL7to8dA721BFsSRO7y30oEc/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS81/N2E1YTM4MDlkY2Mw/ZmNmNzdjMTQ5MTUy/ZjEyNDEyYi5qcGc",
+                "https://imgproxy.onliner.by/3_-IxVvV93oohLsWR6sHd75QbUQdXX-mzUkOYAnv-w0/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS81/YzAxMTExMGFkMTYz/Y2MyYWRiNmQ5YzA3/NjhmNzdmZi5qcGc",
+                "https://imgproxy.onliner.by/VdWnBLbt0mgvYVHwVjSwU5k9UW8BvHkcPrLCPWqeBM8/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS84/NjEwOTcwMjMyNmZi/MDM4NWZiMWE4ODZi/NzQwM2EzNy5qcGc",
+                "https://imgproxy.onliner.by/NW6AcouATYjTybrlMRdQvaCNpnKoqjBLxTd2aOUOOMA/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS9i/MGRiNTMxMDI1MTVh/ZDVhMzY4YmI0Mjc3/MjIyZDFmYi5qcGc",
+                "https://imgproxy.onliner.by/tPVjr0oV0lJwAXnawAko7BX2_iR_eTvW3Ty0WJxpEtA/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNS85/Zjc0Zjg5MDkwYzg5/MTYwZjRkYjUzMmZi/NWZhOTE5Zi5qcGc"
+            ],
+            "main": {
+                "type": "интерьерное кресло",
+                "seatMaterial": "ткань",
+                "carcass": "металл",
+                "color": "бежевый"
+            },
+            "sizes": {
+                "width": "67 см",
+                "height": "66 см",
+                "depth": "83 см"
             }
         }
     ]

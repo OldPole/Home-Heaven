@@ -1,9 +1,5 @@
-import getDataApi from './utils/getDataApi';
-import { CATALOG_URL } from './constants/api';
-
-import './sass/main';
+import App from "./components/App";
 
 (async () => {
-    const data = await getDataApi.getData(CATALOG_URL);
-    console.log(data);
+    await App.render();
 })();

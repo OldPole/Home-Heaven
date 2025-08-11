@@ -1,0 +1,1 @@
+export const ROOT_INDEX = document.getElementById('root');
