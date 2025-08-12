@@ -1,12 +1,10 @@
-import getDataApi from '../../utils/getDataApi';
-import { CATALOG_URL } from '../../constants/api';
+import Header from '../Header/Header';
 
 import './App.scss'
 
 class App {
     async render () {
-        const data = await getDataApi.getData(CATALOG_URL);
-        console.log(data);
+        Header.render();
     }
 }
 
