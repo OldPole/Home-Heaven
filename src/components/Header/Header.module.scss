@@ -1,9 +1,7 @@
-$color-grey: #898585;
-
 .header {
     position: fixed;
     height: 50px;
-    background-color: $color-grey;
+    background-color: var(--color-grey);
 }
 .header__logo {
     display: flex;

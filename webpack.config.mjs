@@ -1,8 +1,10 @@
 import path, { resolve } from 'path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
+import MiniCssExtractPlugin from 'mini-css-extract-plugin';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const isDev = process.env.NODE_ENV === 'development';
 
 export default {
   entry: path.resolve(__dirname, './src/index.js'),
@@ -29,29 +31,87 @@ export default {
   },
   module: {
     rules: [
-        {
-            test: /\.scss$/,
-            use: ['style-loader', 'css-loader', 'sass-loader']
-        },
-        {
-            test: /\.(png|svg|jpg|jpeg|gif)$/i,
-            type: 'asset/resource'
-        },
-        {
+      // Обычные CSS файлы (без модулей)
+      {
+        test: /\.css$/,
+        exclude: /\.module\.css$/,
+        use: [
+          isDev ? 'style-loader' : MiniCssExtractPlugin.loader,
+          'css-loader',
+          'postcss-loader'
+        ]
+      },
+      // CSS Modules (.module.css)
+      {
+        test: /\.module\.css$/,
+        use: [
+          isDev ? 'style-loader' : MiniCssExtractPlugin.loader,
+          {
+            loader: 'css-loader',
+            options: {
+              modules: {
+                localIdentName: isDev ? '[path][name]__[local]' : '[hash:base64]',
+                exportLocalsConvention: 'camelCase'
+              }
+            }
+          },
+          'postcss-loader'
+        ]
+      },
+      // Обычные SCSS файлы (без модулей)
+      {
+        test: /\.scss$/,
+        exclude: /\.module\.scss$/,
+        use: [
+          isDev ? 'style-loader' : MiniCssExtractPlugin.loader,
+          'css-loader',
+          'postcss-loader',
+          'sass-loader'
+        ]
+      },
+      // SCSS Modules (.module.scss)
+      {
+        test: /\.module\.scss$/,
+        use: [
+          isDev ? 'style-loader' : MiniCssExtractPlugin.loader,
+          {
+            loader: 'css-loader',
+            options: {
+              modules: {
+                localIdentName: isDev ? '[path][name]__[local]' : '[hash:base64]',
+                exportLocalsConvention: 'camelCase'
+              }
+            }
+          },
+          'postcss-loader',
+          'sass-loader'
+        ]
+      },
+      // Обработка изображений
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: 'asset/resource'
+      },
+      // Настройка для ES-модулей
+      {
         test: /\.m?js$/,
         resolve: {
           fullySpecified: false
-        },
-        },
+        }
+      }
     ]
   },
   plugins: [
     new HtmlWebpackPlugin({
-        template: './public/index.html',
-        filename: 'index.html',
-        favicon: './public/favicon.png',
-        hash: true,
-        cache: false
+      template: './public/index.html',
+      filename: 'index.html',
+      favicon: './public/favicon.png',
+      hash: true,
+      cache: false
+    }),
+    new MiniCssExtractPlugin({
+      filename: 'css/[name].[contenthash].css',
+      chunkFilename: 'css/[id].[contenthash].css'
     })
   ],
   resolve: {

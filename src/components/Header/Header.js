@@ -11,7 +11,7 @@ import cartImg from './img/cart.svg';
 class Header {
     render () {
         const htmlContent = `
-            <div class="">
+            <div class="${classes.header}">
                 <div class="header__logo">
                     <a class="logo__link">
                         <img class="logo__img" src="${logoImg}"/>
