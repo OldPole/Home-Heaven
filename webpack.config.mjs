@@ -31,17 +31,16 @@ export default {
   },
   module: {
     rules: [
-      // Обычные CSS файлы (без модулей)
+      // Loading CSS файлы
       {
         test: /\.css$/,
         exclude: /\.module\.css$/,
         use: [
           isDev ? 'style-loader' : MiniCssExtractPlugin.loader,
-          'css-loader',
-          'postcss-loader'
+          'css-loader'
         ]
       },
-      // CSS Modules (.module.css)
+      // Loading CSS Modules
       {
         test: /\.module\.css$/,
         use: [
@@ -51,25 +50,24 @@ export default {
             options: {
               modules: {
                 localIdentName: isDev ? '[path][name]__[local]' : '[hash:base64]',
-                exportLocalsConvention: 'camelCase'
-              }
+                exportLocalsConvention: 'camelCase',
+                namedExport: false
+              },
             }
-          },
-          'postcss-loader'
+          }
         ]
       },
-      // Обычные SCSS файлы (без модулей)
+      // Loading SCSS
       {
         test: /\.scss$/,
         exclude: /\.module\.scss$/,
         use: [
           isDev ? 'style-loader' : MiniCssExtractPlugin.loader,
           'css-loader',
-          'postcss-loader',
           'sass-loader'
         ]
       },
-      // SCSS Modules (.module.scss)
+      // Loading SCSS Modules
       {
         test: /\.module\.scss$/,
         use: [
@@ -79,11 +77,11 @@ export default {
             options: {
               modules: {
                 localIdentName: isDev ? '[path][name]__[local]' : '[hash:base64]',
-                exportLocalsConvention: 'camelCase'
+                exportLocalsConvention: 'camelCase',
+                namedExport: true
               }
             }
           },
-          'postcss-loader',
           'sass-loader'
         ]
       },

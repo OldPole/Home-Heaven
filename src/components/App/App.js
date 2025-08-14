@@ -1,6 +1,6 @@
 import Header from '../Header/Header';
 
-import './App.scss'
+import './App.css'
 
 class App {
     async render () {

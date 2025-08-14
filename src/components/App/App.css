@@ -1,6 +1,10 @@
-$color-black: #000000;
+:root {
+    --color-grey: #9fa0a1;
 
-
+    --spacing-small: 10px;
+    --spacing-medium: 15px;
+    --spacing-large: 30px;
+}
 *, ::after, ::before {
     box-sizing: border-box;
 }

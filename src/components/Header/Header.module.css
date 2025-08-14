@@ -1,0 +1,29 @@
+.header {
+    position: fixed;
+    padding: var(--spacing-small);
+    width: 100%;
+    height: 50px;
+    background-color: var(--color-grey);
+}
+.header__container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__logo {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.logo__title {
+    margin-left: var(--spacing-small);
+}
+.header__icons {
+    display: flex;
+}
+.logo__img, .icon__img {
+    width: 25px;
+    height: 25px
+}
