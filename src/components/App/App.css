@@ -1,5 +1,8 @@
 :root {
-    --color-grey: #9fa0a1;
+    --color-white: #ffffff;
+    --color-grey: #b7b8b8;
+    --color-border: #000000;
+    --color-primary: #0066ff;
 
     --spacing-small: 10px;
     --spacing-medium: 15px;
@@ -23,4 +26,9 @@ body {
     display: block;
     object-fit: cover;
     object-position: center;
+}
+.bg-contain {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }

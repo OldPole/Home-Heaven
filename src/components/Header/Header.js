@@ -7,6 +7,7 @@ console.log(classes);
 import logoImg from './img/logo.svg';
 import profileImg from './img/profile.svg';
 import cartImg from './img/cart.svg';
+import searchImg from './img/search.svg';
 
 class Header {
     render () {
@@ -18,18 +19,22 @@ class Header {
                             <span class="${classes.logo__title}">Home Heaven</span>
                         </a>
                     <nav class="${classes.header__nav}">
-                        <a class="nav__link">Каталог</a>
-                        <a class="nav__link">Диваны</a>
-                        <a class="nav__link">Кровати</a>
-                        <a class="nav__link">Пуфы</a>
-                        <a class="nav__link">Кресла</a>
+                        <a class="${classes.nav__link}">Каталог</a>
+                        <a class="${classes.nav__link}">Диваны</a>
+                        <a class="${classes.nav__link}">Кровати</a>
+                        <a class="${classes.nav__link}">Пуфы</a>
+                        <a class="${classes.nav__link}">Кресла</a>
                     </nav>
-                    <div class="header__search">
+                    <div class="${classes.header__search}">
                         <input 
                             type="text"
-                            class="search__input"
+                            class="${classes.search__input}"
                             placeholder="Поиск"
                         >
+                        <button 
+                            class="bg-contain ${classes.search__button}"
+                            style="background-image: url(${searchImg})"
+                        </button>
                     </div>
                     <div class="${classes.header__icons}">
                         <a class="icon__link">

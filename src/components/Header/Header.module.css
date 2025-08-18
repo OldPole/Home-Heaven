@@ -16,14 +16,70 @@
     display: flex;
     align-items: center;
     cursor: pointer;
+    transition: transform 0.3s;
+}
+.header__logo:hover {
+    transform: scale(1.05);
 }
 .logo__title {
     margin-left: var(--spacing-small);
+    font-weight: bold;
+}
+.header__nav {
+    display: flex;
+    gap: var(--spacing-medium);
+    margin: 0 var(--spacing-medium);
+}
+.nav__link {
+    cursor: pointer;
+    font-weight: bold;
+    transition: transform 0.3s;
+}
+.nav__link:hover {
+    transform: scale(1.1);
+}
+.header__search {
+    position: relative;
+    display: flex;
+    max-width: 600px;
+    margin: 0 var(--spacing-medium);
+}
+.search__input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    font-size: 14px;
+    outline: none;
+    background-color: var(--color-white);
+    transition: all 0.3s ease;
+}
+.search__input:focus {
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.15);
 }
 .header__icons {
     display: flex;
+    gap: var(--spacing-small);
 }
+.search__button {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
 .logo__img, .icon__img {
     width: 25px;
-    height: 25px
+    height: 25px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.logo__img, .icon__img:hover {
+    transform: scale(1.1);
 }
