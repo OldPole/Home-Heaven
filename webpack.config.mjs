@@ -52,7 +52,7 @@ export default {
                 localIdentName: isDev ? '[path][name]__[local]' : '[hash:base64]',
                 exportLocalsConvention: 'camelCase',
                 namedExport: false
-              },
+              }
             }
           }
         ]

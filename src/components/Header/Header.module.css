@@ -27,7 +27,7 @@
 }
 .header__nav {
     display: flex;
-    gap: var(--spacing-medium);
+    gap: var(--spacing-large);
     margin: 0 var(--spacing-medium);
 }
 .nav__link {
@@ -46,6 +46,7 @@
 }
 .search__input {
     width: 100%;
+    min-width: 300px;
     padding: 5px;
     border: 1px solid var(--color-border);
     border-radius: 20px;
